@@ -1,0 +1,98 @@
+
+*{
+    padding: 0;
+    margin: auto;
+}
+
+body{
+    height: 100vh;
+}
+.about{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(151, 116, 51);
+}
+.apie{
+    background-color: rgb(196, 170, 114);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    width: 60%;
+    border-radius: 30px;
+}
+.apie h1{
+    margin-left: 43%;
+}
+.apie p{
+    text-align: right;
+}
+.apie img{
+    height: 20%;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 400px;
+}
+
+.korteles {
+    background-color: rgb(151, 116, 51);
+}
+
+.korteles img {
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
+.card {
+    background-color: rgb(196, 170, 114);
+}
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+.contact {
+    height: 100vh;
+    background-color: rgb(151, 116, 51);
+}
+
+.icons {
+    display: flex;
+    padding-top: -48%;
+}
+
+.github{
+    color: rgb(34, 34, 34);
+}
+.github:hover{
+    scale: 1.2;
+}
+.replit{
+    color: orange;
+}
+.replit:hover {
+    scale: 1.2;
+}
+.instagram{
+    color: rgba(199, 16, 9, 0.774);
+}
+.instagram:hover{
+    scale: 1.2;
+}
+
+.discord {
+    color: blue;
+}
+
+.discord:hover{
+    scale: 1.2;
+}
+
+.forms {
+    padding-top: -52%;
+}
